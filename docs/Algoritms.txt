@@ -1,0 +1,26 @@
+Pārbaudīt eļļas līmeni automašīnai
+1.Atslēdz durvis
+2.Atver durvis
+3.Paņem tīru salveti/lupatu
+4.Parauj motora pārsega slēdzi
+5.Piejiet pie auto "priekšās"
+6.Atver motora pārsegu
+7.Nostiprina motora pārsegu ar malā esošu stuti (lai nekrīt)
+8.Izvelk tausi
+9.Noslauka tausti
+10.Ievieto tausti
+11.Izvelk tausti
+
+Izvēdināt telpu
+1.Ieiet istabā
+2.Pieiet pie loga
+3.Attaisīt žalūzijas/aizkarus
+4.Atvērt logu
+
+Izmazgāt grīdas
+1.Paņemt spaini un slotu
+2.Spainī ieliet ūdeni
+3.Ūdenim pievienot mazgāšanas līdzekli
+4.Ejam uz istabu kur mazgāsim
+5.Saslapinam slotu spainī
+6.Mazgājam grīdu

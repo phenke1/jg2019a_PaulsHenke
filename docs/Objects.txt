@@ -1,0 +1,12 @@
+Auto
+Stavoklis -	Krasa
+		Vietu skaits
+		Bagaznieks
+		
+Uzvediba -	Iedarbinat motoru (tere degvielu)
+		Izslegt motoru (degviela neterejas)
+		Braukt 
+		Baka
+		Diski	Riepas
+		Minivens/Sedans...
+		

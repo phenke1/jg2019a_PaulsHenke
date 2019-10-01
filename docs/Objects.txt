@@ -6,7 +6,7 @@ Stavoklis -	Krasa
 Uzvediba -	Iedarbinat motoru (tere degvielu)
 		Izslegt motoru (degviela neterejas)
 		Braukt 
-		Baka
-		Diski	Riepas
-		Minivens/Sedans...
+		Baka                //kā bāka ir uzvedība? varētu būt - atvērt bāku
+		Diski	Riepas      //šie izskatās pēc stāvokļiem vairāk
+		Minivens/Sedans...  //šie izskatās pēc stāvokļiem vairāk
 		

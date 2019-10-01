@@ -24,3 +24,6 @@ Izmazgāt grīdas
 4.Ejam uz istabu kur mazgāsim
 5.Saslapinam slotu spainī
 6.Mazgājam grīdu
+
+
+//Ok
